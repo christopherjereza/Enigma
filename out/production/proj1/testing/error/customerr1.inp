@@ -1,0 +1,4 @@
+Setting Line not at beginning on input.
+* B BETA I II III AAAA
+This should not be encrypted because
+and EnigmaException should've been thrown.
