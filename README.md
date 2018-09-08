@@ -1,3 +1,3 @@
 # Enigma
 
-The World War II Enigma Encryption machine.
+(README documentation coming soon)
